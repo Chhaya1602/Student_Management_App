@@ -1,0 +1,64 @@
+{
+    "students": [
+      {
+        "fname": "Prachi",
+        "lname": "Rahane",
+        "mother_name": "Sangita",
+        "father_name": "Pratap",
+        "address": "Sangamner",
+        "gender": "female",
+        "state": "Gujrat",
+        "city": "Surat",
+        "dob": "15may2000",
+        "pincode": "456788",
+        "password": "prachi@123",
+        "email": "prachirahane@gmail.com",
+        "id": "09c0"
+      },
+      {
+        "fname": "vaibhav",
+        "lname": "pachore",
+        "mother_name": "Aasha",
+        "father_name": "Ratnakar",
+        "address": "Nashik, Mharashtra",
+        "gender": "male",
+        "state": "Maharashtra",
+        "city": "Pune",
+        "dob": "9August1998",
+        "pincode": "765432",
+        "password": "vaibhav@123",
+        "email": "vaibhavpachore25@gmail.com",
+        "id": "5267"
+      },
+      {
+        "fname": "Akshay",
+        "lname": "Sunkar",
+        "mother_name": "Sangita",
+        "father_name": "Narsimma",
+        "address": "mumbai",
+        "gender": "male",
+        "state": "Rajasthan",
+        "city": "Jaipur",
+        "dob": "24September1993",
+        "pincode": "410501",
+        "password": "akshay@123",
+        "email": "akshaysunkar@gmail.com",
+        "id": "439c"
+      },
+      {
+        "id": "1326",
+        "fname": "Chhaya",
+        "lname": "Mandlik",
+        "mother_name": "Sunita",
+        "father_name": "Haribhau",
+        "address": "sangamner,dist-Ahemadnagar",
+        "gender": "female",
+        "state": "Maharashtra",
+        "city": "Pune",
+        "dob": "16feb2000",
+        "pincode": "422605",
+        "password": "chhaya@123",
+        "email": "chaya@gmail.com"
+      }
+    ]
+  }
