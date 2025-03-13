@@ -1,19 +1,23 @@
-import React from 'react'
+import React from "react";
+import AboutLearningEnv from './AboutLearningEnv.jpg'
 
-
-const Admin = () => {
+const About = () => {
   return (
-    <div>
-      <h2>ADMIN LOGIN PAGE</h2>
-      <div className='bg-warning w-50 mx-auto p-4 text-center mt-5 rounded-4'>
-          <input type='text' placeholder='Enter Username' className='form-control mb-3 p-3'/>
-          <input type='password' placeholder='Enter Password' className='form-control mb-3 p-3'/>
-          <button className='btn btn-success w-25'>LOGIN</button>
-      </div>
+    <div 
+      className="flex flex-col items-center justify-center min-h-screen bg-gray-100 p-6"
+      style={{ AboutLearningEnv}} 
+    >
+      <h1 className="text-4xl font-bold text-blue-600 mb-4">About Student Management System</h1>
+      <p className="text-lg text-gray-700 max-w-2xl text-center mb-6">
+        Our Student Management System is designed to help institutions efficiently manage student records. 
+        With an intuitive interface, administrators can easily add, edit, and track student information.
+      </p>
+      <p className="text-lg text-gray-700 max-w-2xl text-center">
+        Features include real-time updates, secure data storage, and user-friendly navigation, ensuring 
+        seamless management of academic records.
+      </p>
     </div>
-  )
-}
+  );
+};
 
-
-export default Admin
-
+export default About;
